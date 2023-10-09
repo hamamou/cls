@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "denoland.vscode-deno",
+        "bradlc.vscode-tailwindcss",
+        "GitHub.copilot",
+        "yoavbls.pretty-ts-errors"
+    ]
+}
